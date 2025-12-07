@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765126601 source:c:\stack_simulation\src\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+
